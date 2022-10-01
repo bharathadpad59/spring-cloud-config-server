@@ -1,0 +1,2 @@
+user-application.username=QA========Spring Cloud Config Server APP Property
+user-application.password=QA========Spring Cloud PASSWORD
